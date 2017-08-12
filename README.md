@@ -1,0 +1,2 @@
+# naive
+a chinese segmemter
