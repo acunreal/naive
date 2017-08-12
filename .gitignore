@@ -98,4 +98,13 @@ ENV/
 /site
 
 # mypy
-.mypy_cache/
+.mypy_cache
+
+# customized
+*.DS_Store
+/data/*
+/icwb2-data/*
+/result/*
+/vecs/*
+/ckpt/*
+!/ckpt/default_model.*
